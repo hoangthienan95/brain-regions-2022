@@ -8,6 +8,7 @@ authors = ["anhoang <anhoang@wi.mit.edu>"]
 python = ">=3.8,<3.9"
 plotly = "^5.5.0"
 pandas = "^1.3.5"
+karateclub = ^1.2.3
 
 [tool.poetry.dev-dependencies]
 nbdev = "^1.1.23"
